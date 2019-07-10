@@ -1,6 +1,6 @@
 <img align="right" width="150" src="/public/dist/rocket.png">
 
-# Job Search Assistant
+# Career Assistant
 
 ##### http://jobsearch.jungiang.com/
 
@@ -10,9 +10,9 @@ This repo contains the Job Search Assistant Application. Designed for mobile, th
 
 1. Fork this repo
 1. Clone your forked copy of this repo
-   - `git clone https://github.com/[Your Username]/c219_jobsearch.git`
+   - `git clone https://github.com/[Your Username]/jobsearch.git`
 1. Change directory into the newly cloned repo
-   - `cd c219_jobsearch`
+   - `cd jobsearch`
 1. Install dependencies 
    - `npm install`
 1. Use MAMP or similar program to start Apache and MySQL servers
